@@ -1,0 +1,8 @@
+Matched image is:1.jpg
+Matched image is:1.jpg
+Matched image is:1.jpg
+Matched image is:1.jpg
+Matched image is:1.jpg
+ face, but not a known one
+This image is not a human face
+This image is not a human face
